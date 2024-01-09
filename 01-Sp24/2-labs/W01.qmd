@@ -43,116 +43,6 @@ library(tidyverse)
 
 ***Dr. Seals***
 
-1.  First question
-
-2.  Second question
-
--   Bullet 1
-
--   Bullet 2
-
-| Col1   | Col2     | Col3     |
-|--------|----------|----------|
-| Cell 1 | Cell 2   | Cell 3   |
-|        | Cell 2.1 |          |
-|        |          | Cell 3.2 |
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">whee</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">test</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky" colspan="2">whee</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">test</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
-
-$$
-\begin{tabular}{|ll|l|l|l|}
-\hline
-\multicolumn{2}{|l|}{whee}    &  &  &  \\ \hline
-\multicolumn{1}{|l|}{} & test &  &  &  \\ \hline
-\multicolumn{1}{|l|}{} &      &  &  &  \\ \hline
-\multicolumn{1}{|l|}{} &      &  &  &  \\ \hline
-\end{tabular}
-$$
-
 **2. Is there a nickname you go by that you would like to go by in the classroom? Change the font to be Italicized.**
 
 Dr. Seals
@@ -164,10 +54,6 @@ When I was in your shoes (finishing a master's degree here at UWF), I knew I wan
 **4. What questions do you have about this course? Write them using an enumerated list.**
 
 Insert your answers here :)
-
-a.  Test
-b.  Test 2
-c.  Test 3
 
 **5. What is the keyboard shortcut to render this file?**
 
